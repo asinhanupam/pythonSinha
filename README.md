@@ -24,5 +24,21 @@ im_a_parent:
       this_is_a_long_variable.
       
 
+# multiple lines made together by brakets or \
+sum = [1 + 2 + 3 
++ 4 + 5 + 6
++ 7 + 8 + 9]
+
+ sum = 1 + 2 + 3 \
++ 4 + 5 + 6 \
+
+# comments are written in python after pound sign (#)
+
+# multi lines comments : 
+"""This is also a
+perfect example of
+multi-line comments"""
+# triple quotes
+
 
 
